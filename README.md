@@ -1,24 +1,16 @@
-# Angular Classic Pro Lab
+# Angular Classic AI Lab
 
-[Repository](https://github.com/AlbertoBasalo/ng-classic-pro-lab) of example for the advanced classic Angular course.
+[Repository GitHub Alberto Basalo Labs Ng_Classic_AI](https://github.com/AlbertoBasaloLabs/ng-classic-ai) example for the advanced classic Angular course (now with AI features)
 
 ## Assets Board
 
-Example in internal folder [assets-board](./assets-board) developed with [Angular 15.2.11](https://www.npmjs.com/package/@angular/cli/v/15.2.11)
+Example in internal folder [assets-board](./assets-board) developed with [Angular 15.2.11](https://www.npmjs.com/package/@angular/cli/v/15.2.11) migrated to Angular 16.2 and then to Angular 17.3
 
 ---
 
-<footer>
-  <h3>🧑🏼‍💻 By <a href="https://albertobasalo.dev" target="blank">Alberto Basalo</a> </h3>
-  <p>
-    <a href="https://x/albertobasalo" target="blank">
-      <img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="twitter albertobasalo" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/albertobasalo" target="blank">
-      <img 
-        src="https://img.shields.io/github/followers/albertobasalo?logo=github&label=profile albertobasalo&style=for-the-badge" alt="git albertobasalo" />
-    </a>
-  </p>
-</footer>
+- **Author**: [Alberto Basalo](https://albertobasalo.dev)
+- **Ai Code Academy en Español**: [AI code Academy](https://aicode.academy)
+- **Socials**:
+  - [X/Twitter](https://x.com/albertobasalo)
+  - [LinkedIn](https://www.linkedin.com/in/albertobasalo/)
+  - [GitHub](https://github.com/albertobasalo)
