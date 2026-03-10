@@ -1,12 +1,47 @@
 /* You can add global styles to this file, and also import other style files */
 /* Minimal CSS reset */
 :root {
-  --pico-font-family: "Fira Mono", Consolas, monospace;
-  --pico-font-family-emoji: "Major Mono Display", Consolas, monospace;
-  --pico-font-family-sans-serif: Tomorrow, Roboto, Helvetica, Arial, sans-serif;
-  --pico-font-family-monospace: "Fira Mono", Consolas, monospace;
+  /* The "Sci-Fi Sharp" Pack */
+  --pico-font-family-sans-serif: "Space Grotesk", sans-serif;
+  --pico-font-family-emoji: "Space Grotesk", monospace;
+  --pico-font-family-serif: "Geist", serif;
+  --pico-font-family: "Geist", system-ui, sans-serif;
+  --pico-font-family-monospace: "Geist Mono", monospace;
   --pico-border-radius: 0rem;
-  background-color: var(--pico-background-color);
+  --pico-typography-spacing-vertical: 0.6rem;
+  /* Readability Pro-Features */
+  --pico-line-height: 1.7;
+  --pico-typography-spacing-vertical: 1.5rem;
+  scroll-behavior: smooth;
+
+
+    /* Dark Theme Base Colors */
+  --ab-deep-space: #1B2A41;
+  --ab-deep-navy: #182946;
+  --ab-surface: #121B33;
+
+  /* Light Theme Base Colors */
+  --ab-ice-white: #F8FAFC;
+  --ab-light-surface: #F1F5F9;
+
+  /* Primary Accent - Bioluminescent Cyan */
+  --ab-cyan-primary: #00F2FF;
+  --ab-cyan-vivid: #33F5FF;
+  --ab-cyan-deep: #00C4CC;
+
+  /* Secondary Accent - Acid Mint */
+  --ab-mint-primary: #80FFDB;
+  --ab-mint-deep: #5CECC6;
+
+  /* Neutral Accents */
+  --ab-chrome: #A8DADC;
+  --ab-slate: #457B9D;
+
+
+  --pico-background-color: var(--ab-ice-white);
+  --pico-primary: var(--ab-cyan-deep);
+  --pico-primary-inverse: var(--ab-ice-white);
+  --pico-secondary: var(--ab-mint-deep);
 }
 
 body {
